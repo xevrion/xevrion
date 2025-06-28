@@ -2,7 +2,7 @@
 
   ### `xevrion` /ˈzɛv.ri.ən/
 
-  <sup><i>20M • engineering elegance in code • observer, thinker, builder</i></sup>
+  <sup><i>18M • engineering elegance in code • observer, thinker, builder</i></sup>
 
 </div>
 
