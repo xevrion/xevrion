@@ -6,8 +6,8 @@
 
 </div>
 
-<samp>
+<!-- <samp> -->
 <!-- / <a href="https://xevrion.dev">xevrion.dev</a> / <a href="https://elysium.cx">elysium.cx</a>   -->
-<br>
+<!-- <br> -->
 <!-- / <a href="https://x.com/xevrion">x.com/xevrion</a> / <a href="mailto:hey@xevrion.dev">hey@xevrion.dev</a> -->
-</samp>
+<!-- </samp> -->
