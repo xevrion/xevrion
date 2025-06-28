@@ -1,13 +1,13 @@
 <div align="center">
 
-  ### `vaytrix` /ˈveɪ.trɪks/
+  ### `xevrion` /ˈzɛv.ri.ən/
 
-  <sup><i>20M • building systems that don't break • curious mind with a creative core</i></sup>
+  <sup><i>20M • engineering elegance in code • observer, thinker, builder</i></sup>
 
 </div>
 
 <samp>
-/ <a href="https://vaytrix.dev">vaytrix.dev</a> / <a href="https://zeonhub.ai">zeonhub.ai</a>  
+/ <a href="https://xevrion.dev">xevrion.dev</a> / <a href="https://elysium.cx">elysium.cx</a>  
 <br>
-/ <a href="https://x.com/vaytrix">x.com/vaytrix</a> / <a href="mailto:hey@vaytrix.dev">hey@vaytrix.dev</a>
+/ <a href="https://x.com/xevrion">x.com/xevrion</a> / <a href="mailto:hey@xevrion.dev">hey@xevrion.dev</a>
 </samp>
