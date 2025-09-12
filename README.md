@@ -7,7 +7,7 @@
 </div>
 
 ![xevrion's Stats](https://github-readme-stats.vercel.app/api?username=xevrion&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![xevrion's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xevrion&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![xevrion's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xevrion&theme=vue-dark&show_icons=true&hide_border=true)
 <!-- <samp> -->
 <!-- / <a href="https://xevrion.dev">xevrion.dev</a> / <a href="https://elysium.cx">elysium.cx</a>   -->
 <!-- <br> -->
