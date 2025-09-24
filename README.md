@@ -6,7 +6,7 @@
  <samp>
 <!-- / <a href="https://xevrion.dev">xevrion.dev</a> / <a href="https://elysium.cx">elysium.cx</a>   -->
 <!-- <br> -->
- / <a href="https://x.com/xevrion_the1">x.com/xevrion</a> /  
+/ <a href="https://xevrion.dev">xevrion.dev</a> / <a href="https://x.com/xevrion_the1">x.com/xevrion</a> /  
  </samp> 
 
 </div>
