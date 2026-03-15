@@ -24,7 +24,7 @@ production. Currently contributing to open source and building in public.
 
 - **[DaemonDoc](https://github.com/xevrion/DaemonDoc)** — AI documentation engine that auto-updates READMEs on every push via webhooks + Redis queues. [[live](https://www.daemondoc.online/)]
 - **[BreathClean](https://github.com/xevrion/BreathClean)** — Route scoring engine combining AQI, weather, and geospatial indexing. [[live](https://breathe.daemondoc.online/)]
-- **[Peek-a-Repo](https://github.com/xevrion/peek-a-repo)** — GitHub file browser extension using GraphQL + DOM interception. No clicking into folders.
+- **[Peek-a-Repo](https://github.com/xevrion/peek-a-repo)** — GitHub file browser extension using GraphQL + DOM interception. No clicking into folders. [[live](https://chromewebstore.google.com/detail/aanpngikpldepannbdkglfohenbkhomp?utm_source=item-share-cb)]
 - **[Chronapse](https://github.com/xevrion/Chronapse)** — Timelapse recorder with Go TUI + Python capture + FFmpeg rendering.
 - **[IITJ LAN Auto Login](https://github.com/xevrion/iitj-lan-autologin)** — Reverse-engineered captive portal daemon with encrypted credential storage.
 - **[DocuMentor](https://github.com/xevrion/DocuMentor)** — Fully offline RAG pipeline with FAISS + 4-bit quantized LLM inference. Used by 15+ students.
