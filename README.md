@@ -6,8 +6,8 @@
 <samp>
 / <a href="https://xevrion.dev">xevrion.dev</a>
 / <a href="https://x.com/xevrion_the1">x</a>
-/ <a href="mailto:krbavadiya11@gmail.com">email</a>
-/ <a href="https://www.linkedin.com/in/yash-bavadiya-a598a224b/">linkedin</a> /
+/ <a href="mailto:me@xevrion.dev">email</a>
+/ <a href="https://www.linkedin.com/in/yash-bavadiya/">linkedin</a> /
 </samp>
 
 </div>
