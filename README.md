@@ -1,7 +1,9 @@
 <div align="center">
 
-### Yash Bavadiya — `xevrion`
+### Yash Bavadiya, `xevrion`
 <sup><i>Full-stack · AI systems · DevTools · IIT Jodhpur · 19</i></sup>
+
+
 
 <samp>
 / <a href="https://xevrion.dev">xevrion.dev</a>
@@ -10,6 +12,9 @@
 / <a href="https://www.linkedin.com/in/yash-bavadiya/">linkedin</a> /
 </samp>
 
+<div>
+<img width="500" height="281" alt="icebear" src="https://github.com/user-attachments/assets/57111a1a-74bd-4953-bb0f-9c6020f5322b" />
+</div>
 </div>
 
 ---
