@@ -4,17 +4,18 @@
 <sup><i>Full-stack · AI systems · DevTools · IIT Jodhpur · 19</i></sup>
 
 
-
+<p> 
 <samp>
 / <a href="https://xevrion.dev">xevrion.dev</a>
 / <a href="https://x.com/xevrion_the1">x</a>
 / <a href="mailto:me@xevrion.dev">email</a>
 / <a href="https://www.linkedin.com/in/yash-bavadiya/">linkedin</a> /
 </samp>
+</p>
 
-<div>
-<img width="500" height="281" alt="icebear" src="https://github.com/user-attachments/assets/57111a1a-74bd-4953-bb0f-9c6020f5322b" />
-</div>
+<p align="center">
+  <img src="https://github.com/xevrion/xevrion/raw/refs/heads/main/assets/icebear.gif" alt="icebear" width="70%" />
+</p>
 </div>
 
 ---
