@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/xevrion/xevrion/raw/refs/heads/main/assets/icebear.gif" alt="icebear" width="70%" />
+  <img src="https://github.com/xevrion/xevrion/raw/refs/heads/main/assets/megumin.gif" alt="icebear" width="50%" />
 </p>
 </div>
 
