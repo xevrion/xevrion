@@ -33,7 +33,7 @@ production. Currently contributing to open source and building in public.
         <td align="center" colspan="2">
             <img src="assets/photon.gif" width="200px" />
             <br>
-            <b>Photon</b> · <a href="https://xevrion.dev/blogs/photon-blog"><sub>blog</sub></a>
+            <b>Photon</b> · <a href="https://xevrion.dev/blogs/photon-blog">blog</a>
             <br>
             Nanosecond-scale NASDAQ ITCH 5.0 feed handler and matching engine in C++20. 38ns median parse on real market data.
         </td>
@@ -49,7 +49,7 @@ production. Currently contributing to open source and building in public.
         <td align="center">
             <img src="assets/daemondoc.gif" width="200px" />
             <br>
-            <a href="https://github.com/xevrion/DaemonDoc"><b>DaemonDoc</b></a> · <a href="https://www.daemondoc.online/"><sub>live</sub></a>
+            <a href="https://github.com/xevrion/DaemonDoc"><b>DaemonDoc</b></a> · <a href="https://www.daemondoc.online/">live</a>
             <br>
             AI documentation engine that auto-updates READMEs on every push via webhooks and Redis queues.
         </td>
@@ -58,7 +58,7 @@ production. Currently contributing to open source and building in public.
         <td align="center">
             <img src="assets/flock.gif" width="200px" />
             <br>
-            <a href="https://github.com/xevrion/flock"><b>Flock</b></a> · <a href="https://flock-demo-canvas.vercel.app"><sub>live</sub></a>
+            <a href="https://github.com/xevrion/flock"><b>Flock</b></a> · <a href="https://flock-demo-canvas.vercel.app">live</a>
             <br>
             Embeddable real-time presence and multiplayer-cursor SDK.
         </td>
@@ -74,14 +74,14 @@ production. Currently contributing to open source and building in public.
         <td align="center">
             <img src="assets/grindmap.gif" width="200px" />
             <br>
-            <b>Grindmap</b> · <a href="https://grindmap.xevrion.dev"><sub>live</sub></a>
+            <b>Grindmap</b> · <a href="https://grindmap.xevrion.dev">live</a>
             <br>
             The LeetCode questions companies actually ask, ranked by frequency.
         </td>
         <td align="center">
             <img src="assets/peek-a-repo.gif" width="200px" />
             <br>
-            <a href="https://github.com/xevrion/peek-a-repo"><b>Peek-a-Repo</b></a> · <a href="https://chromewebstore.google.com/detail/aanpngikpldepannbdkglfohenbkhomp?utm_source=item-share-cb"><sub>live</sub></a>
+            <a href="https://github.com/xevrion/peek-a-repo"><b>Peek-a-Repo</b></a> · <a href="https://chromewebstore.google.com/detail/aanpngikpldepannbdkglfohenbkhomp?utm_source=item-share-cb">live</a>
             <br>
             GitHub file browser extension using GraphQL and DOM interception. No clicking into folders.
         </td>
@@ -122,14 +122,14 @@ production. Currently contributing to open source and building in public.
         <td align="center">
             <img src="assets/vibe-check-api.gif" width="200px" />
             <br>
-            <a href="https://github.com/xevrion/vibe-check-api"><b>Vibe Check API</b></a> · <a href="https://vibe.xevrion.dev"><sub>live</sub></a>
+            <a href="https://github.com/xevrion/vibe-check-api"><b>Vibe Check API</b></a> · <a href="https://vibe.xevrion.dev">live</a>
             <br>
             A fake but real-looking REST API that vibe-checks anything you send it.
         </td>
         <td align="center">
             <img src="assets/honestcommit.gif" width="200px" />
             <br>
-            <a href="https://github.com/xevrion/honestcommit"><b>honestcommit</b></a> · <a href="https://www.npmjs.com/package/honestcommit"><sub>live</sub></a>
+            <a href="https://github.com/xevrion/honestcommit"><b>honestcommit</b></a> · <a href="https://www.npmjs.com/package/honestcommit">live</a>
             <br>
             You type what you actually did, it types the lie your team lead wants to read.
         </td>
@@ -138,7 +138,7 @@ production. Currently contributing to open source and building in public.
         <td align="center">
             <img src="assets/tab-shamer.gif" width="200px" />
             <br>
-            <a href="https://github.com/xevrion/tab-shamer"><b>Tab Shamer</b></a> · <a href="https://chromewebstore.google.com/detail/adpdoobopdmagpbfodcbghmhainleipm"><sub>live</sub></a>
+            <a href="https://github.com/xevrion/tab-shamer"><b>Tab Shamer</b></a> · <a href="https://chromewebstore.google.com/detail/adpdoobopdmagpbfodcbghmhainleipm">live</a>
             <br>
             A new-tab extension that counts your open tabs and judges you for them.
         </td>
