@@ -28,16 +28,90 @@ production. Currently contributing to open source and building in public.
 
 #### selected work
 
-- **Photon**. Nanosecond-scale NASDAQ ITCH 5.0 feed handler and matching engine in C++20. Zero-copy parsing, lock-free SPSC ring, busy-polled UDP multicast. 38ns median parse on real market data. [[blog](https://xevrion.dev/blogs/photon-blog)]
-- **[Kdenlive](https://kdenlive.org/)**. Selected as a GSoC 2026 contributor, working on the C++/Qt codebase of the open-source video editor alongside the core team.
-- **[DaemonDoc](https://github.com/xevrion/DaemonDoc)**. AI documentation engine that auto-updates READMEs on every push via webhooks and Redis queues. [[live](https://www.daemondoc.online/)]
-- **[Flock](https://github.com/xevrion/flock)**. Embeddable real-time presence and multiplayer-cursor SDK, drop it in and see who else is on the page. [[live](https://flock-demo-canvas.vercel.app)]
-- **[Antaran](https://github.com/xevrion/antaran)**. Native Linux tray daemon that watches your dev folder for dirty git repos and zombie dev servers eating your machine.
-- **Grindmap**. The LeetCode questions companies actually ask, ranked by frequency, as a static site generated from CSV data. [[live](https://grindmap.xevrion.dev)]
-- **[Peek-a-Repo](https://github.com/xevrion/peek-a-repo)**. GitHub file browser extension using GraphQL and DOM interception. No clicking into folders. [[live](https://chromewebstore.google.com/detail/aanpngikpldepannbdkglfohenbkhomp?utm_source=item-share-cb)]
-- **[IITJ LAN Auto Login](https://github.com/xevrion/iitj-lan-autologin)**. Reverse-engineered captive portal daemon with encrypted credential storage.
-- **[Chronapse](https://github.com/xevrion/Chronapse)**. Timelapse recorder with Go TUI, Python capture, and FFmpeg rendering.
-- **[DocuMentor](https://github.com/xevrion/DocuMentor)**. Fully offline RAG pipeline with FAISS and 4-bit quantized LLM inference. Used by 15+ students.
+<table>
+    <tr>
+        <td align="center" colspan="2">
+            <img src="assets/photon.gif" width="200px" />
+            <br>
+            <b>Photon</b>
+            <br>
+            Nanosecond-scale NASDAQ ITCH 5.0 feed handler and matching engine in C++20. 38ns median parse on real market data. <a href="https://xevrion.dev/blogs/photon-blog">[blog]</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="assets/kdenlive.gif" width="200px" />
+            <br>
+            <a href="https://kdenlive.org/"><b>Kdenlive</b></a>
+            <br>
+            GSoC 2026 contributor, working on the C++/Qt codebase of the open-source video editor.
+        </td>
+        <td align="center">
+            <img src="assets/daemondoc.gif" width="200px" />
+            <br>
+            <a href="https://github.com/xevrion/DaemonDoc"><b>DaemonDoc</b></a>
+            <br>
+            AI documentation engine that auto-updates READMEs on every push via webhooks and Redis queues. <a href="https://www.daemondoc.online/">[live]</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="assets/flock.gif" width="200px" />
+            <br>
+            <a href="https://github.com/xevrion/flock"><b>Flock</b></a>
+            <br>
+            Embeddable real-time presence and multiplayer-cursor SDK. <a href="https://flock-demo-canvas.vercel.app">[live]</a>
+        </td>
+        <td align="center">
+            <img src="assets/antaran.gif" width="200px" />
+            <br>
+            <a href="https://github.com/xevrion/antaran"><b>Antaran</b></a>
+            <br>
+            Native Linux tray daemon that watches your dev folder for dirty git repos and zombie dev servers.
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="assets/grindmap.gif" width="200px" />
+            <br>
+            <b>Grindmap</b>
+            <br>
+            The LeetCode questions companies actually ask, ranked by frequency. <a href="https://grindmap.xevrion.dev">[live]</a>
+        </td>
+        <td align="center">
+            <img src="assets/peek-a-repo.gif" width="200px" />
+            <br>
+            <a href="https://github.com/xevrion/peek-a-repo"><b>Peek-a-Repo</b></a>
+            <br>
+            GitHub file browser extension using GraphQL and DOM interception. No clicking into folders. <a href="https://chromewebstore.google.com/detail/aanpngikpldepannbdkglfohenbkhomp?utm_source=item-share-cb">[live]</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="assets/iitj-lan-autologin.gif" width="200px" />
+            <br>
+            <a href="https://github.com/xevrion/iitj-lan-autologin"><b>IITJ LAN Auto Login</b></a>
+            <br>
+            Reverse-engineered captive portal daemon with encrypted credential storage.
+        </td>
+        <td align="center">
+            <img src="assets/chronapse.gif" width="200px" />
+            <br>
+            <a href="https://github.com/xevrion/Chronapse"><b>Chronapse</b></a>
+            <br>
+            Timelapse recorder with Go TUI, Python capture, and FFmpeg rendering.
+        </td>
+    </tr>
+    <tr>
+        <td align="center" colspan="2">
+            <img src="assets/documentor.gif" width="200px" />
+            <br>
+            <a href="https://github.com/xevrion/DocuMentor"><b>DocuMentor</b></a>
+            <br>
+            Fully offline RAG pipeline with FAISS and 4-bit quantized LLM inference. Used by 15+ students.
+        </td>
+    </tr>
+</table>
 
 ---
 
