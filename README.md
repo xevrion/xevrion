@@ -117,12 +117,56 @@ production. Currently contributing to open source and building in public.
 
 #### for fun
 
-- **[Vibe Check API](https://github.com/xevrion/vibe-check-api)**. A fake but real-looking REST API that vibe-checks anything you send it and returns a score, a confidence level, and a recommendation from the vibe council. [[live](https://vibe.xevrion.dev)]
-- **[honestcommit](https://github.com/xevrion/honestcommit)**. You type what you actually did, it types the lie your team lead wants to read. A CLI that turns "moved one div and somehow fixed everything" into a professional-sounding commit message. [[live](https://www.npmjs.com/package/honestcommit)]
-- **[Tab Shamer](https://github.com/xevrion/tab-shamer)**. A new-tab extension that counts your open tabs and judges you for them across 7 escalating tiers of betrayal. [[live](https://chromewebstore.google.com/detail/adpdoobopdmagpbfodcbghmhainleipm)]
-- **[obs-zoom-to-mouse-wayland](https://github.com/xevrion/obs-zoom-to-mouse-wayland)**. Wayland was the one place obs-zoom-to-mouse refused to work, so I forked it.
-- **[diary](https://github.com/xevrion/diary)**. A native GTK4 app for recording a daily video/audio diary entry that uploads itself straight to YouTube as a private video.
-- **[image-to-ascii](https://github.com/xevrion/image-to-ascii)**. Turns images into colored ASCII art, printed straight to your terminal.
+<table>
+    <tr>
+        <td align="center">
+            <img src="assets/vibe-check-api.gif" width="200px" />
+            <br>
+            <a href="https://github.com/xevrion/vibe-check-api"><b>Vibe Check API</b></a>
+            <br>
+            A fake but real-looking REST API that vibe-checks anything you send it. <a href="https://vibe.xevrion.dev">[live]</a>
+        </td>
+        <td align="center">
+            <img src="assets/honestcommit.gif" width="200px" />
+            <br>
+            <a href="https://github.com/xevrion/honestcommit"><b>honestcommit</b></a>
+            <br>
+            You type what you actually did, it types the lie your team lead wants to read. <a href="https://www.npmjs.com/package/honestcommit">[live]</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="assets/tab-shamer.gif" width="200px" />
+            <br>
+            <a href="https://github.com/xevrion/tab-shamer"><b>Tab Shamer</b></a>
+            <br>
+            A new-tab extension that counts your open tabs and judges you for them. <a href="https://chromewebstore.google.com/detail/adpdoobopdmagpbfodcbghmhainleipm">[live]</a>
+        </td>
+        <td align="center">
+            <img src="assets/obs-zoom-to-mouse-wayland.gif" width="200px" />
+            <br>
+            <a href="https://github.com/xevrion/obs-zoom-to-mouse-wayland"><b>obs-zoom-to-mouse-wayland</b></a>
+            <br>
+            Wayland was the one place obs-zoom-to-mouse refused to work, so I forked it.
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="assets/diary.gif" width="200px" />
+            <br>
+            <a href="https://github.com/xevrion/diary"><b>diary</b></a>
+            <br>
+            A native GTK4 app for recording a daily video/audio diary that uploads itself straight to YouTube.
+        </td>
+        <td align="center">
+            <img src="assets/image-to-ascii.gif" width="200px" />
+            <br>
+            <a href="https://github.com/xevrion/image-to-ascii"><b>image-to-ascii</b></a>
+            <br>
+            Turns images into colored ASCII art, printed straight to your terminal.
+        </td>
+    </tr>
+</table>
 
 ---
 
