@@ -47,6 +47,38 @@ production. Currently contributing to open source and building in public.
             GSoC 2026 contributor, working on the C++/Qt codebase of the open-source video editor.
         </td>
         <td align="center">
+            <img src="assets/cutback.gif" width="200px" />
+            <br>
+            <a href="https://github.com/xevrion/cutback"><b>cutback</b></a>
+            <br>
+            Version control for Kdenlive projects. Watches the project folder, commits every save, and describes what changed in plain English instead of MLT XML diffs.
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="assets/nova.gif" width="200px" />
+            <br>
+            <a href="https://github.com/xevrion/nova"><b>nova</b></a>
+            <br>
+            Real-time GPU compute particle simulator in C++20 and Vulkan. Millions of particles, N-body gravity and boids, audio reactive.
+        </td>
+        <td align="center">
+            <img src="assets/ignis.gif" width="200px" />
+            <br>
+            <a href="https://github.com/xevrion/ignis"><b>ignis</b></a>
+            <br>
+            Real-time internal combustion engine simulator with physics-driven audio synthesis.
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="assets/gbemulator.gif" width="200px" />
+            <br>
+            <a href="https://github.com/xevrion/gbemulator"><b>gbemu</b></a>
+            <br>
+            Hand-written Game Boy (DMG) emulator in C++20. CPU, PPU, sound, and cartridge mappers implemented from scratch.
+        </td>
+        <td align="center">
             <img src="assets/daemondoc.gif" width="200px" />
             <br>
             <a href="https://github.com/xevrion/DaemonDoc"><b>DaemonDoc</b></a> · <a href="https://www.daemondoc.online/">live</a>
@@ -103,12 +135,35 @@ production. Currently contributing to open source and building in public.
         </td>
     </tr>
     <tr>
-        <td align="center" colspan="2">
+        <td align="center">
             <img src="assets/documentor.gif" width="200px" />
             <br>
             <a href="https://github.com/xevrion/DocuMentor"><b>DocuMentor</b></a>
             <br>
             Fully offline RAG pipeline with FAISS and 4-bit quantized LLM inference. Used by 15+ students.
+        </td>
+        <td align="center">
+            <img src="assets/macpool.gif" width="200px" />
+            <br>
+            <a href="https://github.com/xevrion/macpool"><b>Macpool</b></a>
+            <br>
+            Turns a Mac someone already owns into a safe, temporary dev environment for building and testing macOS/iOS apps from Linux or Windows.
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="assets/arr-stack.gif" width="200px" />
+            <br>
+            <a href="https://github.com/xevrion/arr-stack"><b>arr-stack</b></a>
+            <br>
+            Self-hosted media automation stack with Docker Compose. Radarr, Sonarr, Lidarr, Bazarr, Prowlarr, and Jellyfin, plus real-world setup guides.
+        </td>
+        <td align="center">
+            <img src="assets/macodoro.gif" width="200px" />
+            <br>
+            <a href="https://github.com/xevrion/macodoro"><b>macodoro</b></a>
+            <br>
+            A tiny Pomodoro timer in the macOS menu bar, built with SwiftUI and Liquid Glass.
         </td>
     </tr>
 </table>
