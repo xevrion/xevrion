@@ -55,6 +55,13 @@ production. Currently contributing to open source and building in public.
         </td>
     </tr>
     <tr>
+        <td align="center" colspan="2">
+            <a href="https://github.com/xevrion/k8s-mesh-mcp"><b>k8s-mesh-mcp</b></a>
+            <br>
+            Read-only MCP server for Kubernetes service-mesh introspection in Go. Three tools over stdio and streamable HTTP, built as groundwork for Kmesh's LFX MCP server project.
+        </td>
+    </tr>
+    <tr>
         <td align="center">
             <img src="assets/nova.gif" width="200px" />
             <br>
