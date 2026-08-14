@@ -236,3 +236,6 @@ production. Currently contributing to open source and building in public.
 - GSoC 2026 contributor at Kdenlive
 - Building in public → [xevrion.dev](https://xevrion.dev)
 - Open to part-time remote work with early-stage startups
+
+
+<img src="https://count.getloli.com/@:xevrion?theme=rule34" alt=":xevrion" />
