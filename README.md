@@ -247,7 +247,7 @@ open source system design simulator that shows you where a design falls over.
     </tr>
     <tr>
         <td align="center">
-            <a href="https://github.com/xevrion/lore"><b>lore</b></a>
+            <a href="https://github.com/xevrion/lore"><b>lore</b></a> · <a href="https://lore.xevrion.dev">live</a>
             <br>
             Self-hosted meme host for a friend group. Click to copy, paste in Discord, it renders inline. Runs free on Cloudflare.
         </td>
