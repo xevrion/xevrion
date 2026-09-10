@@ -155,7 +155,48 @@ open source system design simulator that shows you where a design falls over.
         </td>
     </tr>
     <tr>
-        <td align="center" colspan="2">
+        <td align="center">
+            <a href="https://github.com/xevrion/utsushot"><b>utsushot</b></a>
+            <br>
+            Supersampled Wayland screenshots. Spins up a temporary high-resolution phantom output, captures it, tears it down.
+        </td>
+        <td align="center">
+            <a href="https://github.com/xevrion/doubletake"><b>doubletake</b></a>
+            <br>
+            A gateway that gives every AI answer a second look before the user acts on it. Accenture Innovation Challenge 2026.
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/xevrion/notionX"><b>notionX</b></a>
+            <br>
+            Chrome extension that adds a native-feeling Save to Notion button on X. One tap captures the post, author, link and image into your Notion inbox.
+        </td>
+        <td align="center">
+            <a href="https://github.com/xevrion/noctalia-github-contributions"><b>noctalia-github-contributions</b></a>
+            <br>
+            GitHub contribution graph as a desktop widget for Noctalia Shell.
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/xevrion/ruleflow"><b>ruleflow</b></a>
+            <br>
+            Programmable rule engine and policy evaluator for Node.js.
+        </td>
+        <td align="center">
+            <a href="https://github.com/xevrion/depgraph"><b>depgraph</b></a>
+            <br>
+            Dependency auditor and graph visualiser for Node.js and Python projects.
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/xevrion/Motixion"><b>Motixion</b></a>
+            <br>
+            Gamified productivity tracker. Log tasks, hours, streaks and points, and compare progress with friends.
+        </td>
+        <td align="center">
             <a href="https://github.com/xevrion/macodoro"><b>macodoro</b></a>
             <br>
             A tiny Pomodoro timer in the macOS menu bar, built with SwiftUI and Liquid Glass.
@@ -202,6 +243,30 @@ open source system design simulator that shows you where a design falls over.
             <a href="https://github.com/xevrion/image-to-ascii"><b>image-to-ascii</b></a>
             <br>
             Turns images into colored ASCII art, printed straight to your terminal.
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/xevrion/lore"><b>lore</b></a>
+            <br>
+            Self-hosted meme host for a friend group. Click to copy, paste in Discord, it renders inline. Runs free on Cloudflare.
+        </td>
+        <td align="center">
+            <a href="https://github.com/xevrion/obsidian-termina"><b>obsidian-termina</b></a>
+            <br>
+            A TUI-style Obsidian theme.
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/xevrion/obsidian-youtube-links"><b>obsidian-youtube-links</b></a>
+            <br>
+            Paste a YouTube link in Obsidian and it expands into Channel: Video Title.
+        </td>
+        <td align="center">
+            <a href="https://github.com/xevrion/the-hive"><b>the-hive</b></a>
+            <br>
+            A resource dump site for the batches after mine.
         </td>
     </tr>
 </table>
