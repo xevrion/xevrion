@@ -39,6 +39,16 @@ now part of Vercel's Open Source Program.
 
 ---
 
+#### backed by
+
+<p>
+<a href="https://vercel.com/open-source-program"><img src="https://img.shields.io/badge/VERCEL_OSS-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" height="22" alt="Vercel Open Source Program" /></a>
+<a href="https://claude.com/contact-sales/claude-for-oss"><img src="https://img.shields.io/badge/CLAUDE_FOR_OSS-D97757?style=for-the-badge&logo=anthropic&logoColor=FFF8F3" height="22" alt="Claude for Open Source" /></a>
+<a href="https://www.mintlify.com/oss-program"><img src="https://img.shields.io/badge/MINTLIFY_OSS-0F766E?style=for-the-badge&logo=mintlify&logoColor=E6FFF7" height="22" alt="Mintlify OSS Program" /></a>
+</p>
+
+---
+
 #### selected work
 
 <table>
