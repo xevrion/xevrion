@@ -9,7 +9,8 @@
 / <a href="https://xevrion.dev">xevrion.dev</a>
 / <a href="https://x.com/xevrion_the1">x</a>
 / <a href="mailto:me@xevrion.dev">email</a>
-/ <a href="https://www.linkedin.com/in/yash-bavadiya/">linkedin</a> /
+/ <a href="https://www.linkedin.com/in/yash-bavadiya/">linkedin</a>
+/ <a href="https://medium.com/@xevrion">medium</a> /
 </samp>
 </p>
 
@@ -23,16 +24,18 @@
 I build things people actually use, then write about what broke. DevRel at
 [Workers IO](https://workers.io) (YC F26), working on deterministic simulation
 testing. Most of my time goes into [breakscale](https://breakscale.tech), an
-open source system design simulator that shows you where a design falls over.
+open source system design simulator that shows you where a design falls over,
+now part of Vercel's Open Source Program.
 
 ---
 
 #### currently
 
 - DevRel at Workers IO (YC F26): building on breakscale, writing about system design and simulation testing
-- Maintaining [breakscale](https://github.com/xevrion/breakscale): 1,000+ stars in its first week, 11 contributors, sponsored by Workers IO
+- Maintaining [breakscale](https://github.com/xevrion/breakscale): 1,000+ stars in its first week, 11 contributors, sponsored by Workers IO, selected for Vercel's Open Source Program (Summer 2026)
 - Completed Google Summer of Code 2026 with KDE: three Kdenlive widgets merged, shipping in 26.08
-- Building in public at [xevrion.dev](https://xevrion.dev)
+- Making [ui lab](https://lab.xevrion.dev), small interaction experiments with source for each
+- Writing about Claude Code and MCP on [Medium](https://medium.com/@xevrion), building in public at [xevrion.dev](https://xevrion.dev)
 
 ---
 
@@ -56,6 +59,18 @@ open source system design simulator that shows you where a design falls over.
             <a href="https://kdenlive.org/"><b>Kdenlive</b></a> · <a href="https://xevrion.dev/blogs/gsoc-2026-what-the-summer-was-actually-like">write-up</a>
             <br>
             GSoC 2026. Three effect widgets in the C++/Qt codebase, all merged and shipping in Kdenlive 26.08. One fixed a bug reported in 2015.
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/xevrion/ui-lab"><b>ui lab</b></a> · <a href="https://lab.xevrion.dev">live</a>
+            <br>
+            Small interaction experiments, made because they felt right: springs, morphs, drag and hold gestures. 180 of them, each with its source.
+        </td>
+        <td align="center">
+            <a href="https://medium.com/@xevrion"><b>Writing</b></a> · <a href="https://medium.com/@xevrion/i-found-7-mcp-security-habits-that-keep-claude-code-from-wrecking-my-machine-1b2fc6e3e1e0">latest</a>
+            <br>
+            Articles on Claude Code, MCP servers and MCP security, with every tool and incident checked against its source.
         </td>
     </tr>
     <tr>
