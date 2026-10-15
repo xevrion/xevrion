@@ -40,6 +40,7 @@ now part of Vercel's Open Source Program.
 - DevRel at Workers IO (YC F26): building on breakscale, writing about system design and simulation testing
 - Maintaining [breakscale](https://github.com/xevrion/breakscale): 1,000+ stars in its first week, 11 contributors, sponsored by Workers IO, selected for Vercel's Open Source Program (Summer 2026)
 - Completed Google Summer of Code 2026 with KDE: three Kdenlive widgets merged, shipping in 26.08
+- Shipped [mytimetheirtime](https://mytimetheirtime.com): mark your free time on a clock, send one link, they see it in their own time zone
 - Making [ui lab](https://lab.xevrion.dev), small interaction experiments with source for each
 - Writing about Claude Code and MCP on [Medium](https://medium.com/@xevrion), building in public at [xevrion.dev](https://xevrion.dev)
 
